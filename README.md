@@ -226,4 +226,4 @@ Distribuído sob a licença [MIT](LICENSE).
 
 ## Autor
 
-Desenvolvido por **[Seu Nome]** — [github.com/seu-usuario](https://github.com/seu-usuario)
+Desenvolvido por **Felipe** — [github.com/seu-usuario](https://github.com/LipinnDEV)
