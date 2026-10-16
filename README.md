@@ -224,6 +224,11 @@ cheia em 128 bits.
 
 Distribuído sob a licença [MIT](LICENSE).
 
-## Autor
+##  Autor
 
-Desenvolvido por **Felipe** — [github.com/seu-usuario](https://github.com/LipinnDEV)
+Desenvolvido por **Felipe Mousinho**, estudante de Desenvolvimento de Sistemas, com interesse em Java, desenvolvimento de software e segurança digital.
+
+- **GitHub:** [@LipinnDEV](https://github.com/LipinnDEV)
+- **Repositórios:** [Confira meus projetos](https://github.com/LipinnDEV?tab=repositories)
+
+Projeto desenvolvido com fins educacionais e para aprimoramento de conhecimentos em Java.
